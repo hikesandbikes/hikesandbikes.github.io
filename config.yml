@@ -1,2 +1,3 @@
 name: Joshua K Huang's website
 markdown: kramdown
+layouts_dir: /layouts
