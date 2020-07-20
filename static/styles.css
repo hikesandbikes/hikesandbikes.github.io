@@ -42,4 +42,7 @@ ul.posts li {
     list-style: none;
 }
 
-
+.intro-2 {
+    background: url("/static/img/hero-image.jpg")no-repeat center center;
+    background-size: cover;
+}
