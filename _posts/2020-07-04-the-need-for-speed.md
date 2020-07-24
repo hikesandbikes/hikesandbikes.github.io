@@ -31,7 +31,7 @@ The easiest way to fall into this trap is to base your expectations on where you
 </p>
 <p> I grew up swimming competitively for the Berkeley Aquatic Club.  We did double practices three days a week.  On those days, I would wake up at 4:30AM to get in a morning session of 1.5 hours averaging 5,000 - 6,000 yards per practice.  After school, the afternoon sesson was 2.5 hours averaging 8,500 yards per practice.  All in the schedule was ~30 hours/week of training of about 65,000 - 70,000 yards.   
 </p>
-<p> Sometimes when I miss the feel of the water, I'll drop in the pool and do 4000 yards even though I haven't swam for months or even years.  Swimming is second nature to me, but the result is I overwork and injure my shoulders. It is much smarter to end the first few sessions early even though I feel I can do more.   
+<p> Sometimes when I miss the feel of the water, I'll drop in the pool and do 4000 yards even though I haven't swam for months or even years.  I don't feel it at the time, but the result is overwork and injury to my shoulders. It is much smarter to end the first few sessions early even though I feel I can do more.   
 </p>
 
 <blockquote>
