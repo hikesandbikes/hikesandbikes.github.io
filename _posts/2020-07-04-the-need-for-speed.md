@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "I Feel the Need for Speed"
 date: 2020-07-04
 ---
@@ -14,7 +14,7 @@ than someone who flashes a lot of $ on a bike but then can't bring it on the cou
 </p>
 
 <p>
-As a triathlete, I've listed out some hard-won lessons from over the years.  I'm writing this list just as much for myself as I am to help readers, because it's very easy to fall into these traps.  
+I've listed out some hard-won lessons from training for triathlons over the years.  I'm writing this list just as much for myself as I am to help you, because it's very easy to fall into these traps.  
  </p>
 
 <blockquote>
