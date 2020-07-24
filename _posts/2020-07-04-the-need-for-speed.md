@@ -4,8 +4,9 @@ title: "I Feel the Need for Speed"
 date: 2020-07-04
 ---
 
-<p><img src="/static/img/cervelo.jpg" width="650"/></p>
 <h6>Christian Van Velde</h6>
+<p><img src="/static/img/cervelo.jpg" width="650"/></p>
+
 						
 <p>
 If you're going to ride a P5, then you're going to need to back it up.  Nothing looks worse
@@ -32,9 +33,6 @@ The easiest way to fall into this trap is to base your expectations on where you
 </p>
 <p> Sometimes when I miss the feel of the water, I'll drop in the pool and do 4000 yards even though I haven't swam for months or even years.  Swimming is second nature to me, but the result is I overwork and injure my shoulders. It is much smarter to end the first few sessions early even though I feel I can do more.   
 </p>
-
-</div>
-</div>
 
 <blockquote>
     <p><b>Grab a buddy.</b></p>
