@@ -5,6 +5,7 @@ date: 2020-07-04
 ---
 
 <p><img src="/static/img/cervelo.jpg" width="650"/></p>
+<h6>Christian Van Velde</h6>
 						
 <p>
 If you're going to ride a P5, then you're going to need to back it up.  Nothing looks worse
