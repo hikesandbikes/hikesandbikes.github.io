@@ -12,7 +12,7 @@ some thoughts on training tips for triathlon that have helped me over the years.
  </p>
 
 <blockquote>
-		  <em>Consistency.</em>
+		  <p><b>Slow Ramp.</b></p>
 </blockquote>
 <p> I grew up swimming competitively for the Berkeley Aquatic Club.  We did double practices three days a week.  On those days, I would wake up at 4:30AM to get in a morning session.  These were for an hour and a half and about five to six thousand yards.  After school, I trained for another two and a half hours and averaged 8,500 yards in the pool.  All in I trained ~30 hours/week including dry land training.  Over the years I've kept a baseline fitness from all those sessions in the pool.    
 </p>
