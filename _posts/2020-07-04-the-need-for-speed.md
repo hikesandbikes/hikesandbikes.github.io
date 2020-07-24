@@ -3,6 +3,10 @@ layout: post
 title: "I Feel the Need for Speed"
 date: 2020-07-04
 ---
+<div class="asset-content">
+<div class="asset-body">
+		
+
 <p><img src="static/img/cervelo.jpg" width="650"></p>
 						
 <p>
@@ -18,5 +22,9 @@ some thoughts on training tips for triathlon that have helped me over the years.
 </p>
 
 <p>
-		</p>
+</p>
+
+</div>
+</div>
+
 
