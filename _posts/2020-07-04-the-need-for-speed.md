@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Josh Huang's Blog: I Feel the Need for Speed"
+title: "I Feel the Need for Speed"
 date: 2020-07-04
 ---
 <p><img src="static/img/cervelo.jpg" width="650"></p>
