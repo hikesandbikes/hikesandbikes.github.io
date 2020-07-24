@@ -4,7 +4,7 @@ title: "I Feel the Need for Speed"
 date: 2020-07-04
 ---
 
-<h6>Christian Van Velde</h6>
+Christian Van Velde
 <p><img src="/static/img/cervelo.jpg" width="650"/></p>
 
 						
@@ -35,9 +35,13 @@ The easiest way to fall into this trap is to base your expectations on where you
 </p>
 
 <blockquote>
-    <p><b>Grab a buddy.</b></p>
+    <p><b>Grab a training buddy.</b></p>
 </blockquote>
 
 <p>  
-Like anything in life, study with those smarter than you in school, work out with those who are faster, work professionally with those who are more skilled because in each scenario, you know where the bar is and you'll work harder to get there.   
+Like anything in life, study with those smarter than you in school, work out with those who are faster, work professionally with those who are more skilled because in each scenario, you know where the bar is and you'll work harder to get there. Even if you enjoy working out on your own, having a buddy will motivate you and you'll be surprised by what you learn about yourself.  You don't know what you don't know and a buddy will push you to find out.  Your buddy must also be commited to the long-term for their training and for their relationship with you.  
+</p>
+<p>
+Your buddy must also take the long-view for their training and for their relationship with you. You don't want to train with someone who is vindictive or after short-term gains.  A training buddy is a 
+buddy first and then the training comes after.
 </p>
