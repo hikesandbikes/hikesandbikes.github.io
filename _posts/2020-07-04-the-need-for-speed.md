@@ -11,14 +11,15 @@ date: 2020-07-04
 						
 <p>
 If you're going to ride a P5, then you're going to need to back it up.  Nothing looks worse
-than someone who flashes a lot of $ on a bike but then can't bring it on the course.  I've put
-some thoughts on training tips for triathlon that have helped me over the years.  
+than someone who flashes a lot of $ on a bike but then can't bring it on the course.  Below are some
+hard-won lessons I've learned from training over the years. 
  </p>
 
 <blockquote>
-		  <p><b>Slow Ramp.</b></p>
+    <p><b>Slow Ramp.</b></p>
 </blockquote>
-<p> I grew up swimming competitively for the Berkeley Aquatic Club.  We did double practices three days a week.  On those days, I would wake up at 4:30AM to get in a morning session.  These were for an hour and a half and about five to six thousand yards.  After school, I trained for another two and a half hours and averaged 8,500 yards in the pool.  All in I trained ~30 hours/week including dry land training.  Over the years I've kept a baseline fitness from all those sessions in the pool.    
+
+<p> I grew up swimming competitively for the Berkeley Aquatic Club.  We did double practices three days a week.  On those days, I would wake up at 4:30AM to get in a morning session of 1.5 hours averaging 5,000 - 6,000 yards.  After school, the afternoon sesson was 2.5 hours averaging 8,500 yards.  All the schedule was ~30 hours/week of training of about 65,000 - 70,000 yards.   
 </p>
 
 <p>
