@@ -3,9 +3,6 @@ layout: post
 title: "I Feel the Need for Speed"
 date: 2020-07-04
 ---
-<div class="asset-content">
-<div class="asset-body">	
-
 
 <p><img src="/static/img/cervelo.jpg" width="650"/></p>
 						
@@ -24,7 +21,7 @@ I've listed out some hard-won lessons from training for triathlons over the year
 
 <p>  
 Ramping up too quickly leads to injury and burn out.  It's about the long game.  Sure, it feels
-great to go from zero to hero.  But if you need a week to recover from a hero session, you've missed out on valuable training.  Training that would get you faster more quickly.  Most workouts should be aimed at developing an aerobic base you can stand on so you can reach up and hammer hard, intense work outs periodically.  You need it all, aerobic training and intense workouts, but the aerobic stuff where you aren't killing yourself is by far the largest portion of training.  
+great to go from zero to hero.  But if you need a week to recover from a hero session, you've missed out on valuable training.  Training that would get you faster more quickly.  Most workouts should be aimed at developing an aerobic base you can stand on so you can reach up and hammer hard, intense work outs periodically.  You need it all, aerobic training and intense workouts, but the aerobic stuff where you aren't killing yourself is the largest portion of training.  
 </p>
 
 <p>  
@@ -38,4 +35,10 @@ The easiest way to fall into this trap is to base your expectations on where you
 </div>
 </div>
 
+<blockquote>
+    <p><b>Grab a buddy.</b></p>
+</blockquote>
 
+<p>  
+Like anything in life, study with those smarter than you in school, work out with those who are faster, work professionally with those who are more skilled because in each scenario, you know where the bar is and you'll work harder to get there.   
+</p>
