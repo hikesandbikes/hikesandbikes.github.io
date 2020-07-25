@@ -9,12 +9,13 @@ date: 2020-07-04
 
 						
 <p>
-If you're going to ride a P5, then you're going to need to back it up.  Nothing looks worse
-than someone who flashes a lot of $ on a bike but then can't bring it on the course.  It's like
-buying a Ferrari but not knowing how to drive stick.  Some things just shouldn't be done.  The question
-then is what do I need to do bring it when I compete?  You need to train, but before you bring the thunder, here are some hard-won tips I've learned over the years training for triathlons. 
+Ah the Cervelo P5.  Beautiful bike.  I love riding it because it has a great feel. The only catch is nothing looks worse than someone who flashes a lot of $ on a bike but then can't back it up.  It's like
+buying a Ferrari but not knowing how to drive stick.  Some things just shouldn't be done.     
 </p>
 
+<p>
+To help you bring the thunder, here are some hard-won training tips I've learned over the years. 
+</p>
 
 <blockquote>
     <p><b>Slow Ramp.</b></p>
