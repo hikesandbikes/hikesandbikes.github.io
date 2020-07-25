@@ -39,7 +39,7 @@ The easiest way to fall into this trap is to base your expectations on where you
 </blockquote>
 
 <p>  
-Like anything in life, study with those smarter than you in school, work out with those who are faster, work professionally with those who are more skilled because in each scenario, you know where the bar is and you'll work harder to get there. Even if you enjoy working out on your own, having a buddy will motivate you and you'll be surprised by what you learn about yourself.  You don't know what you don't know and a buddy will push you to find out.  Your buddy must also be commited to the long-term for their training and for their relationship with you.  
+Like anything in life, study with those smarter than you in school, work out with those who are faster, work professionally with those who are more skilled because in each scenario, you know where the bar is and you'll work harder to get there. Even if you enjoy working out on your own, having a buddy will motivate you and you'll be surprised by what you learn about yourself.  You don't know what you don't know and a buddy will push you to find out.    
 </p>
 <p>
 Your buddy must also take the long-view for their training and for their relationship with you. You don't want to train with someone who is vindictive or after short-term gains.  A training buddy is a 
