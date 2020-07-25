@@ -9,12 +9,12 @@ date: 2020-07-04
 
 						
 <p>
-Ah the Cervelo P5.  Beautiful bike.  I love riding it because it has a great feel. The only catch is nothing looks worse than someone who flashes a lot of $ on a bike but then can't back it up.  It's like
+Ah the Cervelo P5.  Beautiful bike.  I love riding it. The only catch is nothing looks worse than someone who flashes a lot of $ on a bike but then can't back it up.  It's like
 buying a Ferrari but not knowing how to drive stick.  Some things just shouldn't be done.     
 </p>
 
 <p>
-To help you bring the thunder, here are some hard-won training tips I've learned over the years. 
+Writing down what I've learned to help bring the thunder.  
 </p>
 
 <blockquote>
@@ -27,7 +27,7 @@ great to go from zero to hero.  But if you need a week to recover from a hero se
 </p>
 
 <p>  
-The easiest way to fall into this trap is to base your expectations on where you were a few months or years ago.  You have to be realistic with where you are and patient.   
+The easiest way to fall into this trap is to base your expectations on where you were a few months or years ago.  You have to be realistic with where you are now and patient.   
 </p>
 <p>    
 </p>
@@ -39,9 +39,9 @@ The easiest way to fall into this trap is to base your expectations on where you
 </blockquote>
 
 <p>  
-Like anything in life, study with those smarter than you in school, work out with those who are faster, work professionally with those who are more skilled because in each scenario, you know where the bar is and you'll work harder to get there. Even if you enjoy working out on your own, having a buddy will motivate you and you'll be surprised by what you learn about yourself.  You don't know what you don't know and a buddy will push you to find out.    
+Study with those smarter than you in school, work out with those who are faster, work professionally with those who are more skilled.  In each scenario, you know where the bar is and you'll work harder to get there. Even if you enjoy working out on your own, having a buddy will motivate you and you'll be surprised by what you learn about yourself.  You don't know what you don't know and a buddy will push you to find out.    
 </p>
 <p>
-Your buddy must also take the long-view for their training and for their relationship with you. You don't want to train with someone who is vindictive or after short-term gains.  A training buddy is a 
+Your buddy must also take the long-view for their training and for their relationship with you. A training buddy is a 
 buddy first and then the training comes after.
 </p>
