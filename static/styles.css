@@ -43,7 +43,9 @@ ul.posts li {
     list-style: none;
 }
 
-.intro-2 {
-    background: url("/static/img/hero-image.jpg")no-repeat center center;
-    background-size: cover;
+ul {
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #333;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
