@@ -4,18 +4,17 @@ title: "I Feel the Need for Speed"
 date: 2020-07-04
 ---
 
-![Christian Van Velde]
+<h6>Christian Van Velde.<h/6>
 <p><img src="/static/img/cervelo.jpg" width="650"/></p>
 
 						
 <p>
 If you're going to ride a P5, then you're going to need to back it up.  Nothing looks worse
-than someone who flashes a lot of $ on a bike but then can't bring it on the course.  
+than someone who flashes a lot of $ on a bike but then can't bring it on the course.  It's like
+buying a Ferrari but not knowing how to drive stick.  Some things just shouldn't be done.  The question
+then is what do I need to do bring it when I compete?  You need to train, but before you bring the thunder, here are some hard-won tips I've learned over the years training for triathlons. 
 </p>
 
-<p>
-I've listed out some hard-won lessons from training for triathlons over the years.  I'm writing this list just as much for myself as I am to help others, because it's very easy to fall into these traps.  
- </p>
 
 <blockquote>
     <p><b>Slow Ramp.</b></p>
