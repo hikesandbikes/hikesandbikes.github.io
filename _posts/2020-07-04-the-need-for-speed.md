@@ -45,3 +45,10 @@ Study with those smarter than you in school, work out with those who are faster,
 Your buddy must also take the long-view for their training and for their relationship with you. A training buddy is a 
 buddy first and then the training comes after.
 </p>
+<blockquote>
+    <p><b>Warm up and cool down.</b></p>
+</blockquote>
+
+<p>  
+The older you become the more time you need to warm up and cool down.  This is critical.  I find myself skimping cool down the most often, but that just hurts the next workout.     
+</p>
