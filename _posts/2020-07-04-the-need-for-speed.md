@@ -23,7 +23,7 @@ Writing down what I've learned to help bring the thunder.
 
 <p>  
 Ramping up too quickly leads to injury and burn out.  It's about the long game.  Sure, it feels
-great to go from zero to hero.  But if you need a week to recover from a hero session, you've missed out on valuable training.  Training that would get you faster more quickly.  Most workouts should be aimed at developing an aerobic base you can stand on so you can reach up and hammer hard, intense work outs periodically.  You need it all, aerobic training and intense workouts, but the aerobic stuff where you aren't killing yourself is the largest portion of training.  
+great to go from zero to hero.  But if you need a week to recover from a hero session, you've missed out on valuable training.  Training that would get you faster more quickly.  Most workouts should be aimed at developing an aerobic base you can stand on so you can reach up and hammer hard, intense work outs periodically.  You need it all, aerobic training and intense workouts, but the aerobic stuff where you aren't killing yourself is the largest portion of training.  The 80/20 rule is based on 80 percent of training is done at a sub-threshold pace and 20 percent is done above threshold.
 </p>
 
 <p>  
