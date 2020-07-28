@@ -58,5 +58,5 @@ The older you become the more time you need to warm up and cool down.  This is c
 </blockquote>
 
 <p>  
-The pros train more volume than amateurs and they honor their rest.  Down time is sleeping, laying down, and letting your body soak up all the hard work its done for you.      
+The pros train more volume than amateurs and they honor their rest.  Down time is sleeping, laying down, and letting your body soak up all the hard work it has done for you.      
 </p>
