@@ -50,5 +50,13 @@ buddy first and then the training comes after.
 </blockquote>
 
 <p>  
-The older you become the more time you need to warm up and cool down.  This is critical.  I find myself skimping cool down the most often, but that just hurts the next workout.     
+The older you become the more time you need to warm up and cool down.  This is critical.  I find myself skimping cool down the most often, but that just hurts the next workout. A great way to warm up is to get on a foam roller for 5 minutes.  It's a way to self-massage and increase your internal heat.    
+</p>
+
+<blockquote>
+    <p><b>Rest.</b></p>
+</blockquote>
+
+<p>  
+The pros train more volume than amateurs and they honor their rest.  Down time is sleeping, laying down, and letting your body soak up all the hard work its done for you.      
 </p>
