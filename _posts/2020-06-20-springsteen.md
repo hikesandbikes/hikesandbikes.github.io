@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Young Scrappy and Hungry"
+date: 2020-07-20
+---
+
+<p><img src="/static/img/creative1.jpeg" width="650"/></p>
+
+						
+<p>
+A Hamilton fun fact.
+</p>
+
+<p>
+Daveed Diggs, who played the duel roles of the Marquis de Lafayette and Thomas Jefferson, holds the record for the fastest rap on Broadway, for rapping 19 words in just three seconds in the song Guns and Ships. He won a Tony for his performance.     
+</p>
+
+<p> 
+In his acceptance speech he told a story how he didn't want to perform in his pre-school play.  His mom said that was ok, but he had to do something else instead.  He said he wanted to perform a gymnastics routine with his Dad.  A few days later, he and his Dad showed up in rainbow tights and performed a gymnastics routine in front of his entire school.  His Mom let him choose what he wanted to do and his Dad supported him in what he chose to follow.  He said, "A lot of us are here because people in our lives did that."
+</p>
+
+
+<p> 
+I believe that's true.
+</p>
