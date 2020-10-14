@@ -4,7 +4,7 @@ title: "Springsteen"
 date: 2020-06-20
 ---
 
-<p><img src="/static/img/springsteen.jpeg" width="650"/></p>
+<p><img src="/static/img/springsteen.jpg" width="650"/></p>
 
 		
 <p>Springsteen is one of those legendary figures.  Half god half man.  One of those in that stratosphere few attain.  I was drawn to his autobiography because I wanted to learn more about the legend.  
