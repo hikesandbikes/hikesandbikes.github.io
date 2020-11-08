@@ -8,7 +8,7 @@ date: 2020-11-07
 
 						
 <p>
-<b> How do the characters kick back to real life? </b> 
+<b> Question: How do the characters kick back to real life? </b> 
 </p>
 
 <ul>
@@ -23,6 +23,6 @@ date: 2020-11-07
 <p>Arthur - wakes up from level 2 with the kick when the van hits the water, then wakes up into reality when the timer goes off. </p>
 <p>Eames - wakes up from level 3 when the elevator crashes, then wakes up from level 2 when the van hits the water, then wakes up into reality when the timer goes off. </p>
 <p>Ariadne and Fischer - wake up from level 4/limbo my killing themselves (jumping off the porch), wake up from level 3 when the elevator crashes, then wake up from level 2 when the van hits the water, then wake up into reality when the timer goes off.
-<p>Saito and Cobb - In limbo, Cobb finds Saito, Saito kills Cobb then himself, waking up into level 3 in time for the elevator crash to wake them into level 2, and the van hitting the water to bring them to level 1, and the timer then goes off bringing them, and everyone else back to reality.
+<p>Saito and Cobb - In limbo, Cobb finds Saito, Saito kills Cobb then himself, waking up into level 3 in time for the elevator crash to wake them into level 2.  I do not know how Cobb and Saito make it out of level 1 since they are both left drowning in the sinking van.  
 </p>
 
