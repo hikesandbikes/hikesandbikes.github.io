@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Inception"
+title: "Inception Explained"
 date: 2020-11-07
 ---
 
