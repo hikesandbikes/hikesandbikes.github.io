@@ -30,7 +30,7 @@ date: 2020-11-07
 <p>Arthur - wakes up from level 2 with the kick when the van hits the water, then wakes up into reality when the timer goes off. </p>
 <p>Eames - wakes up from level 3 when the elevator crashes, then wakes up from level 2 when the van hits the water, then wakes up into reality when the timer goes off. </p>
 <p>Ariadne and Fischer - wake up from level 4/limbo my killing themselves (jumping off the porch), wake up from level 3 when the elevator crashes, then wake up from level 2 when the van hits the water, then wake up into reality when the timer goes off.
-<p>Saito and Cobb - In limbo, Cobb finds Saito, Saito kills Cobb then himself. It's not clear if they go to reality directly when the timer goes off skipping the levels.  If they woke up in level 3, they would have missed the elevator crash to wake them into level 2.  They would have also missed the kick from the van that is already submerged in level 1 to escape level 2.  
+<p>Saito and Cobb - In limbo, Cobb finds Saito, Saito kills Cobb then himself. It's not clear if they go to reality directly when the timer goes off on the airplane (like Mal and Cobb previously in the movie) OR if they found someway to go up to the levels one by one.  If they woke up in level 3, they would have missed the elevator crash to wake them into level 2.  They would have also missed the kick from the van in level 1 that is already submerged to escape from level 2.  
 </p>
 
 <p><i>Source: Reddit</i></p>
