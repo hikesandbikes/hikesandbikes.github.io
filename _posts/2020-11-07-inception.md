@@ -42,7 +42,7 @@ date: 2020-11-07
 </p>
 
 
-<p><a href="https://filmschoolrejects.com/inception-ending-explained/">This is a convincing explanation.</a></p>
+<p><a href="https://filmschoolrejects.com/inception-ending-explained/" target="_blank">This is a convincing explanation.</a></p>
 
 
 
