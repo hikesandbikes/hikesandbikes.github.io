@@ -6,7 +6,7 @@ date: 2020-11-07
 
 <p><img src="/static/img/inception.jpeg" width="650"/></p>
 
-<p>This is a very specific post, and admittedly, uber geeky.:)  Read on only if you've seen the movie and want to solve its puzzles.</p>
+<p>This is a very specific post, and admittedly, uber geeky. :)  Read on only if you've seen the movie and want to solve its puzzles.</p>
 
 <p><b>Question 1: Why is Saito so much older than Cobb in limbo?</b></p>
 <p> One theory is that Cobb entered limbo twice. The first time was with Ariadne. They found Fischer and kicked him back to Eames' dream. Meanwhile Saito dies and goes to limbo. Cobb provokes Mal into attacking him. (Note: He provoked her very methodically, a conscious choice he made for some reason, and this theory is one explanation for it.) </p>
