@@ -6,7 +6,7 @@ title: CS50
 <h1>{{ page.title }}</h1>
 	<ul class="posts">
 
-	  {% for cs50 in site.cs50s %}
-	    <li><span>{{ cs50.date | date_to_string }}</span> » <a href="{{ cs50.url }}" title="{{ cs50.title }}">{{ cs50.title }}</a></li>
+	  {% for cupcake in site.cupcakes %}
+	    <li><span>{{ cupcake.date | date_to_string }}</span> » <a href="{{ cupcake.url }}" title="{{ cupcake.title }}">{{ cupcake.title }}</a></li>
 	  {% endfor %}
 	</ul>
