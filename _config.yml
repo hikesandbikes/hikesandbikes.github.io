@@ -8,7 +8,14 @@ collections:
 
 defaults:
   -
-    scope:
+    scope: 
       path: ""
     values:
       layout: "default"
+ -
+    scope:
+      path: "_posts"
+      type: "posts" # previously `page` in Jekyll 2.2.
+    values:
+      layout: "post" # overrides previous default layout
+      
