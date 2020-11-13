@@ -1,5 +1,6 @@
 markdown: kramdown
 layouts_dir: /layouts
+permalink: /blog/:year/:month/:day/:title
 collections_dir: my_collections
 collections: 
   cupcakes:
