@@ -3,4 +3,5 @@ markdown: kramdown
 layouts_dir: /layouts
 permalink: /blog/:year/:month/:day/:title
 permalink: /portfolio/:year/:month/:day/:title
-cupcakes: 
+collections: 
+  - cupcakes
