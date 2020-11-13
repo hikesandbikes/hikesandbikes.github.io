@@ -10,5 +10,6 @@ title: CS50
 
 	  {% for cupcake in site.cupcakes %}
 	    <li><span>{{ cupcake.date | date_to_string }}</span> » <a href="{{ cupcake.url }}" title="{{ cupcake.title }}">{{ cupcake.title }}</a></li>
+		<p>{{ cupcake.content | markdownify }}</p>
 	  {% endfor %}
 	</ul>
