@@ -1,3 +1,4 @@
+theme: jekyll-theme-minimal
 markdown: kramdown
 layouts_dir: /layouts
 permalink: /blog/:year/:month/:day/:title
