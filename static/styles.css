@@ -1,5 +1,5 @@
 body {
-    margin: 100px auto;
+    margin: 60px auto;
     width: 100%;
 }
 nav ul, footer ul {
@@ -20,7 +20,7 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
+    font-size: 6em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
