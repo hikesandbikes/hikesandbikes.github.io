@@ -13,8 +13,7 @@ defaults:
       path: ""
       type: 
     values: 
-      layout: "default"
-      
+      layout: "default"    
   - 
     scope: 
       path: "_posts"
