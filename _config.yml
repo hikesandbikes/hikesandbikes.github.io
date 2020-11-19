@@ -8,17 +8,17 @@ collections:
     output: true
 
 defaults: 
-  - 
+  -  
     scope: 
       path: ""
-      type: pages
+      type: 
     values: 
-      layout: default
+      layout: "default"
       
   - 
     scope: 
-      path: ""
-      type: posts
+      path: "_posts"
+      type: "posts"
     values: 
-      layout: post
+      layout: "post"
       
