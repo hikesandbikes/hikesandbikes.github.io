@@ -7,12 +7,12 @@ collections:
   cupcakes:
     output: true
 
-defaults: 
-  -  
-    scope: 
-      path: ""
-      type: 
-    values: 
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages"
+    values:
       layout: "default"    
   - 
     scope: 
@@ -20,4 +20,5 @@ defaults:
       type: "posts"
     values: 
       layout: "post"
+      author: Josh Huang
       
