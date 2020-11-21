@@ -3,7 +3,7 @@ layout: post
 title: "Inception Explained"
 date: 2020-11-07
 ---
-
+<h1>{{ page.title }}</h1>
 <p><img src="/static/img/inception.jpeg" width="650"/></p>
 
 <p>This is a very specific post, and admittedly, uber geeky. :)  Read on only if you've seen the movie and want to solve its puzzles.</p>

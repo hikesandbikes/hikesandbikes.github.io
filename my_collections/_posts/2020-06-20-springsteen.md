@@ -3,6 +3,7 @@ layout: post
 title: "Springsteen"
 date: 2020-06-20
 ---
+<h1>{{ page.title }}</h1>
 
 <p><img src="/static/img/springsteen.jpg" width="300"></p>
 

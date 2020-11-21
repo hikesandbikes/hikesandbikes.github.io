@@ -3,7 +3,7 @@ layout: post
 title: "I Feel the Need for Speed"
 date: 2020-07-04
 ---
-
+<h1>{{ page.title }}</h1>
 <h6>Christian Van Velde on his time trial bike.</h6>
 <p><img src="/static/img/cervelo.jpg" width="650"/></p>
 
