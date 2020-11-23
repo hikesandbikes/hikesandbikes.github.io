@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Problem Set 7"
+title: "Problem Set 7: Web Programming"
 date: 2020-11-14
 ---
 
-<h1>Answers to CS50x 2019 Problem Set 7.
+<h1>Answers to CS50x 2019 {{page.title}}.
 </h1>
 
 <h3>Similarities </h3>
